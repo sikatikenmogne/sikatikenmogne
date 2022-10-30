@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm SIKATI Samuel </h1>
-<h3 align="center">A passionate computer engineering student</h3>
+<h1 align="left">Hi 👋, I'm SIKATI Samuel </h1>
+<h3 align="left">A passionate computer engineering student.</h3>
 
-<p>I'm Samuel from Cameroon, curious on computer science and mathematics. I really enjoy learning programming langages and frameworks, software desing and DataBase Administration on various DBMS</p>
+<p>I'm Samuel from Cameroon, curious on computer science and mathematics. I really enjoy learning programming langages and frameworks, software desing and DataBase Administration on various DBMS.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sikatikenmogne&label=Profile%20views&color=0e75b6&style=flat" alt="sikatikenmogne" /> </p>
 
