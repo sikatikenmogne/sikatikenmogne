@@ -71,6 +71,15 @@
 📊 <b>This Week I Spent My Time On</b>
 
 <!--START_SECTION:waka-->
+
+```txt
+Python           2 hrs 13 mins   ██████████░░░░░░░░░░░░░░░   40.63 %
+Markdown         1 hr 5 mins     █████░░░░░░░░░░░░░░░░░░░░   19.92 %
+GitIgnore file   30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
+textmate         27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
+Other            20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
