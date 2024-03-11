@@ -65,6 +65,18 @@
 ---
 
 
+## 📊 Stats
+
+[![wakatime](https://wakatime.com/badge/user/018cee13-789a-4312-ba87-bff7005ff31b.svg)](https://wakatime.com/@018cee13-789a-4312-ba87-bff7005ff31b) <b>&nbsp; coded, since JAN 9 2024</b>
+
+
+📊 <b>This Week I Spent My Time On</b>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sikatikenmogne&hide=c,css&include_all_commits=true&count_private=true&langs_count=6&include_forks=true&show_icons=true&locale=en&layout=compact&include_all_commits=true&count_private=true" alt="sikatikenmogne" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sikatikenmogne&show_icons=true&locale=en" alt="sikatikenmogne" /></p>
