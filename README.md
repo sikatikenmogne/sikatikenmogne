@@ -2,8 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-sikatikenmogne-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-sikati-kenmogne-57953a1b7/)](https://www.linkedin.com/in/samuel-sikati-kenmogne-57953a1b7/)
 
-<p>
-As a <b>full-stack web developer</b>, I thrive on turning ideas into elegant solutions. My code is a symphony of logic, meticulously crafted to create seamless user experiences. Whether it’s front-end magic or back-end wizardry, I’m all in.
+As a **full-stack web developer**, I thrive on turning ideas into elegant solutions. My code is a symphony of logic, meticulously crafted to create seamless user experiences. Whether it’s front-end magic or back-end wizardry, I’m all in.
 
 **Key Spells:**
 
@@ -12,7 +11,7 @@ As a <b>full-stack web developer</b>, I thrive on turning ideas into elegant sol
 - Impact Enchanter: I don’t just write code; I sculpt impact. From microservices to macroscale solutions, I aim to make a difference.
   
 Let’s build something extraordinary together! 🚀
-</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sikatikenmogne&label=Profile%20views&color=0e75b6&style=flat" alt="sikatikenmogne" /> </p>
 
