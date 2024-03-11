@@ -7,8 +7,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sikatikenmogne&label=Profile%20views&color=0e75b6&style=flat" alt="sikatikenmogne" /> </p>
 
 
----
-
 ## 🛠️ My Favourite tools
 
 ### 👨‍💻 Programming languages
