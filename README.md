@@ -2,10 +2,19 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-sikatikenmogne-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-sikati-kenmogne-57953a1b7/)](https://www.linkedin.com/in/samuel-sikati-kenmogne-57953a1b7/)
 
-<p>Hi i'm Samuel from Cameroon, curious on computer science and mathematics. I really enjoy learning programming langages and frameworks, software desing and DataBase Administration on various DBMS.</p>
+<p>
+As a <b>full-stack web developer</b>, I thrive on turning ideas into elegant solutions. My code is a symphony of logic, meticulously crafted to create seamless user experiences. Whether it’s front-end magic or back-end wizardry, I’m all in.
+
+**Key Spells:**
+
+- Obsessive Attention to Detail: I dot every “i” and cross every “t.” Precision is my wand, and bugs vanish in its glow.
+- Learning Alchemist: Curiosity fuels my quest for knowledge. I devour documentation like a dragon guarding its treasure.
+- Impact Enchanter: I don’t just write code; I sculpt impact. From microservices to macroscale solutions, I aim to make a difference.
+  
+Let’s build something extraordinary together! 🚀
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sikatikenmogne&label=Profile%20views&color=0e75b6&style=flat" alt="sikatikenmogne" /> </p>
-
 
 ## 🛠️ My Favourite tools
 
@@ -62,11 +71,9 @@
 
 ---
 
-
 ## 📊 Stats
 
 [![wakatime](https://wakatime.com/badge/user/018cee13-789a-4312-ba87-bff7005ff31b.svg)](https://wakatime.com/@018cee13-789a-4312-ba87-bff7005ff31b) <b>&nbsp; coded, since JAN 9 2024</b>
-
 
 📊 <b>This Week I Spent My Time On</b>
 
@@ -93,4 +100,3 @@ Other            20 mins         █▓░░░░░░░░░░░░░�
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sikatikenmogne&" alt="sikatikenmogne" />
   </a>
 </p>
-
