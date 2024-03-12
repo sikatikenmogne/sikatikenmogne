@@ -2,14 +2,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-sikatikenmogne-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-sikati-kenmogne-57953a1b7/)](https://www.linkedin.com/in/samuel-sikati-kenmogne-57953a1b7/)
 
-As a **full-stack web developer**, I thrive on turning ideas into elegant solutions. My code is a symphony of logic, meticulously crafted to create seamless user experiences. Whether it’s front-end magic or back-end wizardry, I’m all in.
+As a **full-stack web developer**, I thrive on turning ideas into elegant solutions. My code is a symphony of logic, meticulously crafted to create seamless user experiences. Whether it’s front-end or back-end, I’m all in.
 
-**Key Spells:**
-
-- Obsessive Attention to Detail: I dot every “i” and cross every “t.” Precision is my wand, and bugs vanish in its glow.
-- Learning Alchemist: Curiosity fuels my quest for knowledge. I devour documentation like a dragon guarding its treasure.
-- Impact Enchanter: I don’t just write code; I sculpt impact. From microservices to macroscale solutions, I aim to make a difference.
-  
 Let’s build something extraordinary together! 🚀
 
 
