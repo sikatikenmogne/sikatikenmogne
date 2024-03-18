@@ -73,11 +73,11 @@ Let’s build something extraordinary together! 🚀
 <!--START_SECTION:waka-->
 
 ```txt
-Python           3 hrs 38 mins   ██████████░░░░░░░░░░░░░░░   40.15 %
-Markdown         2 hrs 39 mins   ███████▒░░░░░░░░░░░░░░░░░   29.29 %
-YAML             36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
-GitIgnore file   30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
-Git Config       28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+Python           3 hrs 38 mins   █████████████▓░░░░░░░░░░░   54.86 %
+Markdown         1 hr 33 mins    ██████░░░░░░░░░░░░░░░░░░░   23.59 %
+YAML             36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
+Git Config       28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
+Text             13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
 ```
 
 <!--END_SECTION:waka-->
