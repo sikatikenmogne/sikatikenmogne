@@ -73,11 +73,11 @@ Let’s build something extraordinary together! 🚀
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          4 hrs 28 mins   ██████████░░░░░░░░░░░░░░░   39.70 %
-Bash         2 hrs 59 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.46 %
-YAML         1 hr 5 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
-Twig         52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
-.env file    46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
+PHP         3 hrs 33 mins   █████████▓░░░░░░░░░░░░░░░   38.17 %
+Bash        2 hrs 18 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.82 %
+YAML        1 hr 18 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
+Twig        52 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
+Other       26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
 ```
 
 <!--END_SECTION:waka-->
