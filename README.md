@@ -73,11 +73,11 @@ Let’s build something extraordinary together! 🚀
 <!--START_SECTION:waka-->
 
 ```txt
-Java              6 hrs 41 mins   █████████░░░░░░░░░░░░░░░░   36.36 %
-XML               6 hrs 28 mins   ████████▓░░░░░░░░░░░░░░░░   35.16 %
-Text              1 hr 28 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
-textmate          54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
-Docker            39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+XML               8 hrs 40 mins   █████████▒░░░░░░░░░░░░░░░   37.85 %
+Java              8 hrs 27 mins   █████████▒░░░░░░░░░░░░░░░   36.88 %
+Text              1 hr 30 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
+HTML              1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+textmate          54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
 ```
 
 <!--END_SECTION:waka-->
