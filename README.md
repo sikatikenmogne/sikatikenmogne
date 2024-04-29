@@ -73,11 +73,11 @@ Let’s build something extraordinary together! 🚀
 <!--START_SECTION:waka-->
 
 ```txt
-Java              22 hrs 12 mins  ███████████████▓░░░░░░░░░   62.53 %
-XML               8 hrs 33 mins   ██████░░░░░░░░░░░░░░░░░░░   24.11 %
-HTML              2 hrs 50 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
-SQL               27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-Java Properties   25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Java              18 hrs 48 mins  ███████████████▒░░░░░░░░░   61.74 %
+XML               6 hrs 27 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.22 %
+HTML              2 hrs 42 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
+JSON              30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Java Properties   25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 ```
 
 <!--END_SECTION:waka-->
