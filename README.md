@@ -73,11 +73,11 @@ Let’s build something extraordinary together! 🚀
 <!--START_SECTION:waka-->
 
 ```txt
-C#                     15 hrs 54 mins  █████████████████░░░░░░░░   67.46 %
-Markdown               3 hrs 28 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.71 %
-Other                  2 hrs 17 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
-Java                   1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
-XML                    14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+C#                     21 hrs 56 mins  █████████████████▓░░░░░░░   71.22 %
+Markdown               4 hrs 26 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.44 %
+Other                  2 hrs 17 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
+Java                   1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+GitIgnore file         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
 ```
 
 <!--END_SECTION:waka-->
