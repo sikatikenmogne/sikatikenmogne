@@ -6,7 +6,6 @@ As a **full-stack web developer**, I thrive on turning ideas into elegant soluti
 
 Let’s build something extraordinary together! 🚀
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sikatikenmogne&label=Profile%20views&color=0e75b6&style=flat" alt="sikatikenmogne" /> </p>
 
 ## 🛠️ My Favourite tools
@@ -84,12 +83,11 @@ GitIgnore file         31 mins         ▒░░░░░░░░░░░░�
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sikatikenmogne&hide=c,css&include_all_commits=true&count_private=true&langs_count=6&include_forks=true&show_icons=true&locale=en&layout=compact&include_all_commits=true&count_private=true" alt="sikatikenmogne" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sikatikenmogne&show_icons=true&locale=en" alt="sikatikenmogne" /></p>
+<div align="center">
 
-<p align=center>
-  <a href="https://git.io/streak-stats" title="Go to Source">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sikatikenmogne&" alt="sikatikenmogne" />
-  </a>
-</p>
+  ![my most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=sikatikenmogne&hide=c,css&include_all_commits=true&count_private=true&langs_count=8&include_forks=true&show_icons=true&locale=en&layout=compact&include_all_commits=true&count_private=true)
+  ![my readme stats](https://github-readme-stats.vercel.app/api?username=sikatikenmogne&show_icons=true&locale=en)
+  ![my current streak](https://github-readme-streak-stats.herokuapp.com/?user=sikatikenmogne&)
+
+</div>
