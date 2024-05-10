@@ -60,7 +60,7 @@ Let’s build something extraordinary together! 🚀
 
 [![wakatime](https://wakatime.com/badge/user/018cee13-789a-4312-ba87-bff7005ff31b.svg)](https://wakatime.com/@018cee13-789a-4312-ba87-bff7005ff31b) <b>&nbsp; coded, since JAN 9 2024</b>
 
-📊 <b>This Week I Spent My Time On</b>
+### 📈 This Week I Spent My Time On
 
 <!--START_SECTION:waka-->
 
@@ -75,6 +75,8 @@ GitIgnore file         31 mins         ▒░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ---
+
+### 💻 GitHub Stats
 
 <div align="center">
 
