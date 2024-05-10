@@ -76,7 +76,7 @@ GitIgnore file         31 mins         ▒░░░░░░░░░░░░�
 
 ---
 
-### 💻 GitHub Stats
+### :octocat: GitHub Stats
 
 <div align="center">
 
