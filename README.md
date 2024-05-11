@@ -1,14 +1,14 @@
-<h1 align="left">Welcome to Samuel SIKATI's profile! <a href="https://www.aswinbarath.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1>
+# Hello, I'm Samuel :wave:
 
-[![Linkedin Badge](https://img.shields.io/badge/-sikatikenmogne-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-sikati-kenmogne-57953a1b7/)](https://www.linkedin.com/in/samuel-sikati-kenmogne-57953a1b7/)
+![Profile Views](https://komarev.com/ghpvc/?username=sikatikenmogne&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=true)
 
-As a **full-stack web developer**, I thrive on turning ideas into elegant solutions. My code is a symphony of logic, meticulously crafted to create seamless user experiences. Whether it’s front-end or back-end, I’m all in.
+A passionate fullstack developer from Cameroon.I am a fullstack developper from Douala,Camerooon. I have rich experience in creating web,mobile,desktop. I am always open to collaborating on projects and innovative ideas.
 
-Let’s build something extraordinary together! 🚀
+## 🌐 Connect with me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sikatikenmogne&label=Profile%20views&color=0e75b6&style=flat" alt="sikatikenmogne" /> </p>
+[![Linkedin Badge](https://img.shields.io/badge/-sikatikenmogne-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-sikati-kenmogne-57953a1b7/)](https://www.linkedin.com/in/samuel-sikati-kenmogne-57953a1b7/)
 
-## 🛠️ My Favourite tools
+## 🛠️ My Favorite tools
 
 ### 👨‍💻 Programming languages
 
@@ -56,11 +56,11 @@ Let’s build something extraordinary together! 🚀
 
 ---
 
-## 📊 Stats
+## 📈 Stats
 
-[![wakatime](https://wakatime.com/badge/user/018cee13-789a-4312-ba87-bff7005ff31b.svg)](https://wakatime.com/@018cee13-789a-4312-ba87-bff7005ff31b) <b>&nbsp; coded, since JAN 9 2024</b>
+### [![wakatime](https://wakatime.com/badge/user/018cee13-789a-4312-ba87-bff7005ff31b.svg?style=for-the-badge)](https://wakatime.com/@018cee13-789a-4312-ba87-bff7005ff31b)
 
-### 📈 This Week I Spent My Time On
+### 📊 This Week I Spent My Time On
 
 <!--START_SECTION:waka-->
 
@@ -76,7 +76,7 @@ GitIgnore file         31 mins         ▒░░░░░░░░░░░░�
 
 ---
 
-### :octocat: GitHub Stats
+### :octocat: GitHub Stats 
 
 <div align="center">
 
