@@ -1,8 +1,19 @@
 # Hello, I'm Samuel :wave:
 
-![Profile Views](https://komarev.com/ghpvc/?username=sikatikenmogne&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=true)
+A passionate fullstack developer from Cameroon.I am a fullstack developper from Douala, Camerooon. I have rich experience in creating web,mobile,desktop. I am always open to collaborating on projects and innovative ideas.
 
-A passionate fullstack developer from Cameroon.I am a fullstack developper from Douala,Camerooon. I have rich experience in creating web,mobile,desktop. I am always open to collaborating on projects and innovative ideas.
+## 💫 More About Me
+
+- 🎓 I'm a Computer Science graduate with a passion for coding and problem-solving.
+- 🌱 I’m currently learning more about cloud architecture, systems design, and microservices.
+- 💼 I’m pursuing a career as a Full Stack Developer.
+- 🎯 In my free time, I contribute to Open Source projects.
+- 📚 I believe in constant learning and I am always eager to learn new technologies and frameworks.
+- 📫 How to reach me: [sikatikenmogne@gmail.com](mailto:sikatikenmogne@gmail.com)
+  
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=sikatikenmogne&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
 ## 🌐 Connect with me
 
@@ -34,6 +45,7 @@ A passionate fullstack developer from Cameroon.I am a fullstack developper from 
 ![Angular](https://img.shields.io/badge/Angular-DD0031.svg?logo=angular&logoColor=white&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white&style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge)
 
@@ -76,12 +88,22 @@ XML                    10 mins         ░░░░░░░░░░░░░�
 
 ---
 
-### :octocat: GitHub Stats 
+### :octocat: GitHub Stats
 
 <div align="center">
 
   ![my most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=sikatikenmogne&hide=c,css&include_all_commits=true&count_private=true&langs_count=8&include_forks=true&show_icons=true&locale=en&layout=compact&include_all_commits=true&count_private=true)
   ![my readme stats](https://github-readme-stats.vercel.app/api?username=sikatikenmogne&show_icons=true&locale=en)
   ![my current streak](https://github-readme-streak-stats.herokuapp.com/?user=sikatikenmogne&)
+
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+  ![my GitHub trophies](https://github-profile-trophy.vercel.app/?username=sikatikenmogne&title=MultiLanguage,Commits,Followers,Experience,Repositories,Stars,PullRequest,Issues)
 
 </div>
