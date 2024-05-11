@@ -36,7 +36,7 @@ A passionate fullstack developer from Cameroon.I am a fullstack developper from 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white&style=for-the-badge)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 🧰 Frameworks and libraries
+### 🧰 Frameworks, Platforms and Libraries
 
 ![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=000000&logo=Flask&logoColor=white&style=for-the-badge)
 ![Symfony](https://img.shields.io/badge/Symfony-000000.svg?logo=symfony&logoColor=white&style=for-the-badge)
@@ -63,8 +63,8 @@ A passionate fullstack developer from Cameroon.I am a fullstack developper from 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white&style=for-the-badge)
 ![OBS Studio](https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
-![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&logoColor=white&style=for-the-badge)
 
 ---
 
