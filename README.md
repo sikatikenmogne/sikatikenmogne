@@ -4,11 +4,11 @@ A passionate fullstack developer from Cameroon.I am a fullstack developper from 
 
 ## 💫 More About Me
 
-- 🎓 I'm a Computer Science graduate with a passion for coding and problem-solving.
-- 🌱 I’m currently learning more about cloud architecture, systems design, and microservices.
-- 💼 I’m pursuing a career as a Full Stack Developer.
-- 🎯 In my free time, I contribute to Open Source projects.
+- 🎓 I'm currently pursuing my Master's in Computer Science.
 - 📚 I believe in constant learning and I am always eager to learn new technologies and frameworks.
+- 🌱 I’m currently learning more about software architecture, systems design, and microservices.
+- 🎯 In my free time, I contribute to Open Source projects.
+- 💼 I’m pursuing also a career as a Full Stack Developer.
 - 📫 How to reach me: [sikatikenmogne@gmail.com](mailto:sikatikenmogne@gmail.com)
   
 ---
