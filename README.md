@@ -77,11 +77,11 @@ A passionate fullstack developer from Cameroon.I am a fullstack developper from 
 <!--START_SECTION:waka-->
 
 ```txt
-C#                     23 hrs 46 mins  █████████████████▓░░░░░░░   70.26 %
-Markdown               6 hrs 51 mins   █████░░░░░░░░░░░░░░░░░░░░   20.27 %
-Other                  2 hrs 17 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
-GitIgnore file         31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-XML                    10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+C#                     18 hrs 47 mins  ████████████████░░░░░░░░░   64.55 %
+Markdown               8 hrs 50 mins   ███████▓░░░░░░░░░░░░░░░░░   30.38 %
+Other                  34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+GitIgnore file         31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+XML                    10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
