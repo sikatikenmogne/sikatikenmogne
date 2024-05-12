@@ -9,7 +9,7 @@ A passionate fullstack developer from Cameroon.I am a fullstack developper from 
 - 🌱 I’m currently learning more about software architecture, systems design, and microservices.
 - 🔭 I'm looking to collaborate on any Open Source project.
 - 💼 I’m also pursuing a career as a Full Stack Developer.
-- 📫 How to reach me: [sikatikenmogne@gmail.com](mailto:sikatikenmogne@gmail.com)
+- 📫 How to reach me: &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sikatikenmogne@gmail.com) 
   
 ---
 
