@@ -1,6 +1,6 @@
 # Hello, I'm Samuel :wave:
 
-A passionate fullstack developer from Cameroon.I am a fullstack developper from Douala, Camerooon. I have rich experience in creating web,mobile,desktop. I am always open to collaborating on projects and innovative ideas.
+I'm a dedicated Full Stack Developer based in Douala, Cameroon, with a wealth of experience in building diverse web, mobile, and desktop applications. I'm always eager to collaborate on innovative projects and bring creative ideas to life.
 
 ## 💫 More About Me
 
@@ -9,7 +9,7 @@ A passionate fullstack developer from Cameroon.I am a fullstack developper from 
 - 🌱 I’m currently learning more about software architecture, systems design, and microservices.
 - 🔭 I'm looking to collaborate on any Open Source project.
 - 💼 I’m also pursuing a career as a Full Stack Developer.
-- 📫 How to reach me: &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sikatikenmogne@gmail.com) 
+- 📫 How to reach me: &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sikatikenmogne@gmail.com)
   
 ---
 
@@ -17,7 +17,7 @@ A passionate fullstack developer from Cameroon.I am a fullstack developper from 
 
 ## 🌐 Connect with me
 
-[![Linkedin Badge](https://img.shields.io/badge/-sikatikenmogne-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-sikati-kenmogne-57953a1b7/)](https://www.linkedin.com/in/samuel-sikati-kenmogne-57953a1b7/)
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-sikati-kenmogne-57953a1b7/)](https://www.linkedin.com/in/samuel-sikati-kenmogne-57953a1b7/)
 
 ## 🛠️ My Favorite tools
 
@@ -35,6 +35,7 @@ A passionate fullstack developer from Cameroon.I am a fullstack developper from 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white&style=for-the-badge)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-%23007396.svg?style=for-the-badge&logo=yaml&logoColor=white)
 
 ### 🧰 Frameworks, Platforms and Libraries
 
@@ -45,7 +46,7 @@ A passionate fullstack developer from Cameroon.I am a fullstack developper from 
 ![Angular](https://img.shields.io/badge/Angular-DD0031.svg?logo=angular&logoColor=white&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white&style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23007396.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge)
 
@@ -54,6 +55,7 @@ A passionate fullstack developer from Cameroon.I am a fullstack developper from 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white&style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white&style=for-the-badge)
 ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white&style=for-the-badge)
 ![Hostinger](https://img.shields.io/badge/Hostinger-000000.svg?logo=hostinger&logoColor=white&style=for-the-badge)
 
