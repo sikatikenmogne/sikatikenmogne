@@ -89,11 +89,11 @@ I'm a dedicated Full Stack Developer based in Douala, Cameroon, with a wealth of
 <!--START_SECTION:waka-->
 
 ```txt
-Dart                            44 hrs 41 mins  █████████████████████░░░░   83.96 %
-Markdown                        3 hrs 30 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
-Astro                           1 hr 46 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
-TypeScript                      1 hr 20 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-YAML                            40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Dart           46 hrs 34 mins  ██████████████████████░░░   88.53 %
+Markdown       4 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
+YAML           37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Astro          29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+textmate       17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
