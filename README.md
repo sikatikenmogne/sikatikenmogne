@@ -23,6 +23,8 @@ I'm a dedicated Full Stack Developer based in Douala, Cameroon, with a wealth of
 
 ### 👨‍💻 Programming languages
 
+<div align="center">
+  
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
@@ -37,9 +39,12 @@ I'm a dedicated Full Stack Developer based in Douala, Cameroon, with a wealth of
 ![YAML](https://img.shields.io/badge/YAML-%23007396.svg?style=for-the-badge&logo=yaml&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+</div>
 
 ### 🧰 Frameworks, Platforms and Libraries
 
+<div align="center">
+  
 ![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=000000&logo=Flask&logoColor=white&style=for-the-badge)
 ![Symfony](https://img.shields.io/badge/Symfony-000000.svg?logo=symfony&logoColor=white&style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?logo=spring-boot&logoColor=white&style=for-the-badge)
@@ -51,9 +56,12 @@ I'm a dedicated Full Stack Developer based in Douala, Cameroon, with a wealth of
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23007396.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge)
+</div>
 
 ### 🗄️ Databases and Cloud Hosting
 
+<div align="center">
+  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white&style=for-the-badge)
@@ -63,9 +71,12 @@ I'm a dedicated Full Stack Developer based in Douala, Cameroon, with a wealth of
 ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white&style=for-the-badge)
 ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white&style=for-the-badge)
 ![Hostinger](https://img.shields.io/badge/Hostinger-000000.svg?logo=hostinger&logoColor=white&style=for-the-badge)
+</div>
 
 ### 💻 Softwares & development tools
 
+<div align="center">
+  
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white&style=for-the-badge)
@@ -77,6 +88,7 @@ I'm a dedicated Full Stack Developer based in Douala, Cameroon, with a wealth of
 ![Obsidian](https://img.shields.io/badge/Obsidian-4D4D4D.svg?logo=obsidian&logoColor=white&style=for-the-badge)
 ![Evernote](https://img.shields.io/badge/Evernote-2dbe60.svg?logo=evernote&logoColor=white&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+</div>
 
 ---
 
