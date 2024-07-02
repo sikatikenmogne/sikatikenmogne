@@ -101,11 +101,11 @@ I'm a dedicated Full Stack Developer based in Douala, Cameroon, with a wealth of
 <!--START_SECTION:waka-->
 
 ```txt
-TeX            9 hrs 37 mins   ████████▒░░░░░░░░░░░░░░░░   32.79 %
-Dart           9 hrs 14 mins   ████████░░░░░░░░░░░░░░░░░   31.46 %
-JavaScript     3 hrs 48 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.98 %
-Python         2 hrs 21 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
-JSON           1 hr 55 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
+TeX            9 hrs 37 mins   ████████████▒░░░░░░░░░░░░   48.82 %
+Dart           9 hrs 13 mins   ███████████▓░░░░░░░░░░░░░   46.78 %
+Markdown       21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+Other          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+JSON           7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
