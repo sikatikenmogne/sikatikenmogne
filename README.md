@@ -101,11 +101,11 @@ I'm a dedicated Full Stack Developer based in Douala, Cameroon, with a wealth of
 <!--START_SECTION:waka-->
 
 ```txt
-Dart           12 hrs 4 mins   ████████████████████▓░░░░   82.65 %
-Markdown       1 hr 16 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
-OpenEdge ABL   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
-Git Config     16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-Other          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Dart           9 hrs 26 mins   ███████████████████▓░░░░░   78.56 %
+Markdown       1 hr 19 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
+OpenEdge ABL   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+Git Config     16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+Other          15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
 ```
 
 <!--END_SECTION:waka-->
