@@ -90,11 +90,11 @@ I'm a dedicated Full Stack Developer based in Douala, Cameroon, with a wealth of
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     7 hrs 57 mins   ██████████▓░░░░░░░░░░░░░░   42.17 %
-Other        4 hrs 41 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.82 %
-YAML         1 hr 58 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 %
-JSON         1 hr 24 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
-TypeScript   53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+Markdown     7 hrs 53 mins   ████████████████▒░░░░░░░░   65.65 %
+Other        1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
+JSON         51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
+YAML         34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+TypeScript   30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
 ```
 
 <!--END_SECTION:waka-->
