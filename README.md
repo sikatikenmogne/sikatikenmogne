@@ -153,6 +153,16 @@ I'm a dedicated Full Stack Developer based in Douala, Cameroon, with a wealth of
 
 ---
 
+## 🛤️ My Learning Journey
+
+<div align="center">
+
+[![roadmap.sh](https://roadmap.sh/card/wide/66ed151de80161c4cba1a8e8?variant=light&roadmaps=python%2Cbackend%2Cgit-github%2Csql)](https://roadmap.sh/u/samuelsikati)
+
+</div>
+
+---
+
 ## 📈 Stats
 
 ### [![wakatime](https://wakatime.com/badge/user/018cee13-789a-4312-ba87-bff7005ff31b.svg?style=for-the-badge)](https://wakatime.com/@018cee13-789a-4312-ba87-bff7005ff31b)
@@ -170,16 +180,6 @@ TOML         51 mins         █▒░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
----
-
-## 🛤️ My Roadmap
-
-<div align="center">
-
-[![roadmap.sh](https://roadmap.sh/card/tall/66ed151de80161c4cba1a8e8?variant=light)](https://roadmap.sh/u/samuelsikati)
-
-</div>
 
 ---
 
