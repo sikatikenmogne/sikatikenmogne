@@ -17,6 +17,8 @@ I'm a dedicated Full Stack Developer based in Douala, Cameroon, with a wealth of
 
 ## 🌐 Connect with me
 
+<div align="center">
+
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-sikati-kenmogne-57953a1b7/)](https://www.linkedin.com/in/samuel-sikati-kenmogne-57953a1b7/)
 [![WakaTime Badge](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white&link=https://wakatime.com/@sikatikenmogne)](https://wakatime.com/@sikatikenmogne)
 [![Roadmap Badge](https://img.shields.io/badge/roadmap.sh-000000?style=for-the-badge&logo=roadmap.sh&logoColor=white&link=https://roadmap.sh/@samuelsikati)](https://roadmap.sh/@samuelsikati)
@@ -24,7 +26,9 @@ I'm a dedicated Full Stack Developer based in Douala, Cameroon, with a wealth of
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&link=https://leetcode.com/u/sikatikenmogne)](https://leetcode.com/u/sikatikenmogne)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@sikatikenmogne)](https://medium.com/@sikatikenmogne)
 [![Stack Overflow Badge](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/24794943/samuel-sikati)](https://stackoverflow.com/users/24794943/samuel-sikati)
-[![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://dev.to/samuelsikati)](https://dev.to/samuelsikati)
+
+
+</div>
 
 ## 🛠️ My Tech Stack
 
@@ -61,41 +65,6 @@ I'm a dedicated Full Stack Developer based in Douala, Cameroon, with a wealth of
 [![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)](https://pnpm.io/)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-### 💻 Software & Development Tools
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&logoColor=white&style=for-the-badge)
-![PyCharm](https://img.shields.io/badge/PyCharm-21D789.svg?logo=pycharm&logoColor=white&style=for-the-badge)
-![WebStorm](https://img.shields.io/badge/WebStorm-00A4EF.svg?logo=webstorm&logoColor=white&style=for-the-badge)
-![PhpStorm](https://img.shields.io/badge/PhpStorm-8E44AD.svg?logo=phpstorm&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white&style=for-the-badge)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?logo=github-actions&logoColor=white&style=for-the-badge)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-4D4D4D.svg?logo=obsidian&logoColor=white&style=for-the-badge)
-![Evernote](https://img.shields.io/badge/Evernote-2dbe60.svg?logo=evernote&logoColor=white&style=for-the-badge)
-![WakaTime](https://img.shields.io/badge/WakaTime-000000.svg?logo=wakatime&logoColor=white&style=for-the-badge)
-![DevContainer](https://img.shields.io/badge/DevContainer-2496ED.svg?logo=devcontainer&logoColor=white&style=for-the-badge)
-![GitLens](https://img.shields.io/badge/GitLens-0078d7.svg?logo=gitlens&logoColor=white&style=for-the-badge)
-![Codespaces](https://img.shields.io/badge/Codespaces-181717.svg?logo=github&logoColor=white&style=for-the-badge)
-![roadmap.sh](https://img.shields.io/badge/roadmap.sh-000000.svg?logo=roadmap.sh&logoColor=white&style=for-the-badge)
-
-### ☁️ Hosting / SaaS
-
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white&style=for-the-badge)
-![Vercel](https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white&style=for-the-badge)
-![Heroku](https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white&style=for-the-badge)
-![Hostinger](https://img.shields.io/badge/Hostinger-000000.svg?logo=hostinger&logoColor=white&style=for-the-badge)
-
-
-### 🖥️ Servers
-
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
 ### 🗄️ Databases / ORM
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white&style=for-the-badge)
@@ -107,6 +76,18 @@ I'm a dedicated Full Stack Developer based in Douala, Cameroon, with a wealth of
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Doctrine](https://img.shields.io/badge/Doctrine-4B32C3.svg?style=for-the-badge&logo=doctrine&logoColor=white)
+![Eloquent](https://img.shields.io/badge/Eloquent-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CE2C2E.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+
+
+### 🔄 CI/CD & VCS
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
 
 ### 🎨 UI/UX Design
 
@@ -116,21 +97,6 @@ I'm a dedicated Full Stack Developer based in Douala, Cameroon, with a wealth of
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795.svg?style=for-the-badge&logo=chakra-ui&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE.svg?style=for-the-badge&logo=ant-design&logoColor=white)
-
-
-### 📊 ML/DL
-
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white&style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23007396.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-
-### 🔄 CI/CD & VCS
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 
 ### ✍️ Technical Writing
@@ -148,12 +114,45 @@ I'm a dedicated Full Stack Developer based in Douala, Cameroon, with a wealth of
 ![Evernote](https://img.shields.io/badge/Evernote-2dbe60?style=for-the-badge&logo=evernote&logoColor=white)
 ![Read the Docs](https://img.shields.io/badge/Read%20the%20Docs-8CA1AF?style=for-the-badge&logo=read-the-docs&logoColor=white)
 
-### 🛠️ Other Tools
+### 🖥️ Servers
 
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+### ☁️ Hosting / SaaS
+
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white&style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white&style=for-the-badge)
+![Heroku](https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white&style=for-the-badge)
+![Hostinger](https://img.shields.io/badge/Hostinger-000000.svg?logo=hostinger&logoColor=white&style=for-the-badge)
+
+### 📊 ML/DL
+
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white&style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23007396.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+
+### 💻 Software & Development Tools
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&logoColor=white&style=for-the-badge)
+![PyCharm](https://img.shields.io/badge/PyCharm-21D789.svg?logo=pycharm&logoColor=white&style=for-the-badge)
+![WebStorm](https://img.shields.io/badge/WebStorm-00A4EF.svg?logo=webstorm&logoColor=white&style=for-the-badge)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-8E44AD.svg?logo=phpstorm&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?logo=github-actions&logoColor=white&style=for-the-badge)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![WakaTime](https://img.shields.io/badge/WakaTime-000000.svg?logo=wakatime&logoColor=white&style=for-the-badge)
+![DevContainer](https://img.shields.io/badge/DevContainer-2496ED.svg?logo=devcontainer&logoColor=white&style=for-the-badge)
+![GitLens](https://img.shields.io/badge/GitLens-0078d7.svg?logo=gitlens&logoColor=white&style=for-the-badge)
+![Codespaces](https://img.shields.io/badge/Codespaces-181717.svg?logo=github&logoColor=white&style=for-the-badge)
+![roadmap.sh](https://img.shields.io/badge/roadmap.sh-000000.svg?logo=roadmap.sh&logoColor=white&style=for-the-badge)
 
 ---
 
