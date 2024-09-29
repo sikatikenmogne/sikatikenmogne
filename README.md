@@ -65,6 +65,14 @@ I'm a dedicated Full Stack Developer based in Douala, Cameroon, with a wealth of
 [![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)](https://pnpm.io/)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
+### 📊 ML/DL
+
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white&style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23007396.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+
 ### 🗄️ Databases / ORM
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white&style=for-the-badge)
@@ -81,30 +89,14 @@ I'm a dedicated Full Stack Developer based in Douala, Cameroon, with a wealth of
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CE2C2E.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
-
-### 🔄 CI/CD & VCS
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-
-### 🎨 UI/UX Design
-
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Shadcn](https://img.shields.io/badge/Shadcn-000000.svg?style=for-the-badge&logo=shadcn&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795.svg?style=for-the-badge&logo=chakra-ui&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE.svg?style=for-the-badge&logo=ant-design&logoColor=white)
-
-
 ### ✍️ Technical Writing
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white&style=for-the-badge)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![PlantUML](https://img.shields.io/badge/PlantUML-000000?style=for-the-badge&logo=plantuml&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![PyDoc](https://img.shields.io/badge/PyDoc-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Sphinx](https://img.shields.io/badge/Sphinx-3C5280?style=for-the-badge&logo=sphinx&logoColor=white)
 ![JsDoc](https://img.shields.io/badge/JsDoc-000000?style=for-the-badge&logo=jsdoc&logoColor=white)
 ![PHPDoc](https://img.shields.io/badge/PHPDoc-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Asciidoctor](https://img.shields.io/badge/Asciidoctor-E40046?style=for-the-badge&logo=asciidoctor&logoColor=white)
@@ -128,13 +120,14 @@ I'm a dedicated Full Stack Developer based in Douala, Cameroon, with a wealth of
 ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white&style=for-the-badge)
 ![Hostinger](https://img.shields.io/badge/Hostinger-000000.svg?logo=hostinger&logoColor=white&style=for-the-badge)
 
-### 📊 ML/DL
+### 🔄 DevOps Tools
 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white&style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23007396.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?logo=github-actions&logoColor=white&style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?logo=jenkins&logoColor=white&style=for-the-badge)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26.svg?logo=gitlab&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white&style=for-the-badge)
 
 ### 💻 Software & Development Tools
 
@@ -153,6 +146,10 @@ I'm a dedicated Full Stack Developer based in Douala, Cameroon, with a wealth of
 ![GitLens](https://img.shields.io/badge/GitLens-0078d7.svg?logo=gitlens&logoColor=white&style=for-the-badge)
 ![Codespaces](https://img.shields.io/badge/Codespaces-181717.svg?logo=github&logoColor=white&style=for-the-badge)
 ![roadmap.sh](https://img.shields.io/badge/roadmap.sh-000000.svg?logo=roadmap.sh&logoColor=white&style=for-the-badge)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795.svg?style=for-the-badge&logo=chakra-ui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE.svg?style=for-the-badge&logo=ant-design&logoColor=white)
 
 ---
 
@@ -173,6 +170,16 @@ TOML         51 mins         █▒░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+---
+
+## 🛤️ My Roadmap
+
+<div align="center">
+
+[![roadmap.sh](https://roadmap.sh/card/tall/66ed151de80161c4cba1a8e8?variant=light)](https://roadmap.sh/u/samuelsikati)
+
+</div>
 
 ---
 
