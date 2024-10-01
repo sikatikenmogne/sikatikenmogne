@@ -1,16 +1,8 @@
-# Hello, I'm Samuel :wave:
+![Header](./.github/assets/github-header-image.png)
 
-I'm a dedicated Full Stack Developer based in Douala, Cameroon, with a wealth of experience in building diverse web, mobile, and desktop applications. I'm always eager to collaborate on innovative projects and bring creative ideas to life.
+A dedicated Full Stack Developer based in Douala, Cameroon, with a wealth of experience in building diverse web, mobile, and desktop applications. I'm always eager to collaborate on innovative projects and bring creative ideas to life.
 
-## 💫 More About Me
 
-- 🎓 I'm currently pursuing my Master's in software engineering.
-- 📚 I believe in constant learning and I am always eager to learn new technologies and frameworks.
-- 🌱 I’m currently learning more about software architecture, systems design, and microservices.
-- 🔭 I'm looking to collaborate on any Open Source project.
-- 💼 I’m also pursuing a career as a Full Stack Developer.
-- 📫 How to reach me: &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sikatikenmogne@gmail.com)
-  
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sikatikenmogne&label=Profile%20views&color=0e75b6&style=for-the-badge)
@@ -20,9 +12,9 @@ I'm a dedicated Full Stack Developer based in Douala, Cameroon, with a wealth of
 <div align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-sikati-kenmogne-57953a1b7/)](https://www.linkedin.com/in/samuel-sikati-kenmogne-57953a1b7/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sikatikenmogne@gmail.com)
 [![WakaTime Badge](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white&link=https://wakatime.com/@sikatikenmogne)](https://wakatime.com/@sikatikenmogne)
-[![Roadmap Badge](https://img.shields.io/badge/roadmap.sh-000000?style=for-the-badge&logo=roadmap.sh&logoColor=white&link=https://roadmap.sh/@samuelsikati)](https://roadmap.sh/@samuelsikati)
-[![Credly Badge](https://img.shields.io/badge/Credly-FF6C37?style=for-the-badge&logo=credly&logoColor=white&link=https://www.credly.com/users/sikati-samuel-kenmogne)](https://www.credly.com/users/sikati-samuel-kenmogne)
+[![Roadmap Badge](https://img.shields.io/badge/roadmap.sh-000000?style=for-the-badge&logo=roadmap.sh&logoColor=white&link=https://roadmap.sh/u/samuelsikati)](https://roadmap.sh/u/samuelsikati)
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&link=https://leetcode.com/u/sikatikenmogne)](https://leetcode.com/u/sikatikenmogne)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@sikatikenmogne)](https://medium.com/@sikatikenmogne)
 [![Stack Overflow Badge](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/24794943/samuel-sikati)](https://stackoverflow.com/users/24794943/samuel-sikati)
