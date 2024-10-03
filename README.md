@@ -25,8 +25,8 @@
 
 ## 🛠️ My Tech Stack
 
-<details>
-<summary>Click to show/hide</summary>
+<details style="font-size: 1.1em; cursor: pointer;">
+<summary>Click to show/hide 👁️ </summary>
 
 ### 👨‍💻 Languages
 
