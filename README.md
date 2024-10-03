@@ -161,11 +161,11 @@ A dedicated FullStack Developer based in Douala, Cameroon, with a wealth of expe
 <!--START_SECTION:waka-->
 
 ```txt
-Python       6 hrs 18 mins   ██████████▓░░░░░░░░░░░░░░   42.11 %
-Markdown     4 hrs 21 mins   ███████▒░░░░░░░░░░░░░░░░░   29.07 %
-Docker       1 hr 45 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.75 %
-JSON         1 hr 27 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
-Text         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+Markdown     4 hrs 48 mins   █████████░░░░░░░░░░░░░░░░   36.31 %
+Python       4 hrs 45 mins   █████████░░░░░░░░░░░░░░░░   35.83 %
+Docker       1 hr 45 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.27 %
+JSON         56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
+JavaScript   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
 ```
 
 <!--END_SECTION:waka-->
