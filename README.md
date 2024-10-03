@@ -1,7 +1,8 @@
 ![Header](./.github/assets/github-header-image.png)
 
-A dedicated FullStack Developer based in Douala, Cameroon, with a wealth of experience in building diverse web, mobile, and desktop applications. I'm always eager to collaborate on innovative projects and bring creative ideas to life.
-
+<div align="center" style="font-size: 1.1em;">
+  <strong>A dedicated FullStack Developer based in Douala, Cameroon, with a wealth of experience in building diverse web, mobile, and desktop applications. I'm always eager to collaborate on innovative projects and bring creative ideas to life.</strong>
+</div>
 
 ---
 
@@ -23,6 +24,9 @@ A dedicated FullStack Developer based in Douala, Cameroon, with a wealth of expe
 </div>
 
 ## 🛠️ My Tech Stack
+
+<details>
+<summary>Click to show/hide</summary>
 
 ### 👨‍💻 Languages
 
@@ -141,6 +145,8 @@ A dedicated FullStack Developer based in Douala, Cameroon, with a wealth of expe
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE.svg?style=for-the-badge&logo=ant-design&logoColor=white)
 
 ---
+
+</details>
 
 ## 🛤️ My Learning Journey
 
