@@ -1,4 +1,6 @@
-![Header](./.github/assets/github-header-image.png)
+<div align="center">
+  <img src="./.github/assets/github-header-image.png" alt="Samuel SIKATI Profile banner">
+</div>
 
 <div align="center" style="font-size: 1.1em;">
   A dedicated FullStack Developer based in Douala, Cameroon, with a wealth of experience in building diverse web, mobile, and desktop applications. I'm always eager to collaborate on innovative projects and bring creative ideas to life.
@@ -25,8 +27,8 @@
 
 ## 🛠️ My Tech Stack
 
-<details style="font-size: 1.1em; cursor: pointer;">
-<summary>Click to show/hide 👁️ </summary>
+<details>
+<summary style="font-size: 1.1em; cursor: pointer; font-weight: 600;">Click to show/hide 👁️ </summary>
 
 ### 👨‍💻 Languages
 
