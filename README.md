@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./.github/assets/github-header-image.png" alt="Samuel SIKATI Profile banner">
+  <img height="150" with="auto" src="./.github/assets/github-header-image.png" alt="Samuel SIKATI Profile banner">
 </div>
 
 <div align="center" style="font-size: 1.1em;">
@@ -28,7 +28,7 @@
 ## 🛠️ My Tech Stack
 
 <details>
-<summary style="font-size: 1.1em; cursor: pointer; font-weight: 600;">Click to show/hide 👁️ </summary>
+<summary style="font-size: 1.1em;"><strong>Click to show/hide 👁️</strong></summary>
 
 ### 👨‍💻 Languages
 
