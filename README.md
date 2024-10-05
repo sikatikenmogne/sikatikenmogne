@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" with="auto" src="./.github/assets/github-header-image.png" alt="Samuel SIKATI Profile banner">
+  <img src="./.github/assets/github-header-image.png" alt="Samuel SIKATI Profile banner">
 </div>
 
 <div align="center" style="font-size: 1.1em;">
