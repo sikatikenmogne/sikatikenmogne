@@ -3,7 +3,7 @@
 </div>
 
 <div align="center" style="font-size: 1.1em;">
-  A dedicated FullStack Developer based in Douala, Cameroon, with a wealth of experience in building diverse web, mobile, and desktop applications. I'm always eager to collaborate on innovative projects and bring creative ideas to life.
+  A dedicated Full Stack Developer based in Douala, Cameroon, with a wealth of experience in building diverse web, mobile, and desktop applications. I'm always eager to collaborate on innovative projects and bring creative ideas to life.
 </div>
 
 ---
