@@ -28,7 +28,7 @@
 ## 🛠️ My Tech Stack
 
 <details open>
-<summary style="font-size: 1.1em;"><strong>Click to show/hide 👁️</strong></summary>
+<summary style="font-size: 1.1em;"><strong>Click to hide/show 👀</strong></summary>
 
 ### 👨‍💻 Languages
 
