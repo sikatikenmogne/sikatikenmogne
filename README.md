@@ -169,11 +169,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other               22 hrs          █████████▓░░░░░░░░░░░░░░░   38.59 %
-Python              18 hrs 38 mins  ████████▒░░░░░░░░░░░░░░░░   32.69 %
-Markdown            11 hrs 48 mins  █████▒░░░░░░░░░░░░░░░░░░░   20.70 %
-PlantUML file       1 hr 19 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
-Image (svg)         1 hr 13 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Other               23 hrs 5 mins   ██████████░░░░░░░░░░░░░░░   39.34 %
+Python              19 hrs 58 mins  ████████▓░░░░░░░░░░░░░░░░   34.03 %
+Markdown            9 hrs 25 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.06 %
+PlantUML file       3 hrs 8 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+Image (svg)         1 hr 13 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
 ```
 
 <!--END_SECTION:waka-->
