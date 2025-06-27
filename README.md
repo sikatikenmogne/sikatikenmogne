@@ -169,11 +169,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other             36 hrs 57 mins  █████████████▓░░░░░░░░░░░   54.43 %
-TeX               20 hrs 55 mins  ███████▓░░░░░░░░░░░░░░░░░   30.83 %
-Markdown          3 hrs 48 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
-PlantUML          3 hrs 19 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
-PlantUML file     2 hrs 2 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+Other             46 hrs 37 mins  ███████████████░░░░░░░░░░   60.46 %
+TeX               20 hrs 50 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.02 %
+Markdown          3 hrs 41 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+PlantUML          3 hrs 12 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+PlantUML file     2 hrs 2 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
 ```
 
 <!--END_SECTION:waka-->
