@@ -1,0 +1,43 @@
+name: Generate Snake Game
+
+# Déclenche le workflow automatiquement
+on:
+  # Tous les jours à 00:00 UTC
+  schedule:
+    - cron: "0 0 * * *"
+  
+  # Permet de déclencher manuellement le workflow
+  workflow_dispatch:
+  
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      # Checkout du code
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      # Génération du snake game
+      - name: Generate Snake Game
+        uses: platane/snk/svg-only@v3
+        with:
+          github_user_name: sikatikenmogne
+          outputs: |
+            assets/github-snake.svg
+            assets/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      # Commit et push des fichiers générés
+      - name: Push snake game files
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: main
+          build_dir: assets
+          commit_message: "🐍 Update snake game"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
