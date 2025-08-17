@@ -67,8 +67,6 @@ When I'm not coding, I enjoy learning new technologies, contributing to open sou
 
 </div>
 
-📚 See [➡️ Full Tech Stack](https://github.com/sikatikenmogne/sikatikenmogne/blob/main/TECH-STACK.md) for a complete list of projects using each technology.
-
 ----      
 
   </p>
@@ -96,33 +94,6 @@ When I'm not coding, I enjoy learning new technologies, contributing to open sou
 
 
 
-<!-- Recent Activity -->
-<details>
-  <summary><b>⚡ Recent Activity</b></summary>
-    <p>
-
-
-### [![wakatime](https://wakatime.com/badge/user/018cee13-789a-4312-ba87-bff7005ff31b.svg?style=for-the-badge)](https://wakatime.com/@018cee13-789a-4312-ba87-bff7005ff31b)
-
-### 📈 This Week I Spent My Time On
-
-<!--START_SECTION:waka-->
-
-```txt
-Other               20 hrs 15 mins  ████████████▓░░░░░░░░░░░░   38.97 %
-Markdown            11 hrs 28 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.08 %
-Python              9 hrs 6 mins    ████░░░░░░░░░░░░░░░░░░░░░   17.52 %
-YAML                5 hrs 21 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
-TOML                2 hrs 20 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
-```
-
-<!--END_SECTION:waka-->
-
-----
-
-  </p>
-</details>
-
 <!-- Learning Journey -->
 <details>
   <summary><b>🛤️ My Learning Journey</b></summary>
@@ -140,11 +111,9 @@ TOML                2 hrs 20 mins   █░░░░░░░░░░░░░�
 
 </details>
 
-
-
-<!-- Snek -->   
+<!-- Snake -->   
 <p align="center">
-<a href="https://gitstar-ranking.com/sikatikenmogne" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/sikatikenmogne/sikatikenmogne/main/assets/github-snake.svg" /></a>
+<a href="https://gitstar-ranking.com/sikatikenmogne" title="Snake Game Activity Grid"><img width="500" src="https://raw.githubusercontent.com/sikatikenmogne/sikatikenmogne/main/assets/github-snake.svg" /></a>
 </p>
 
 </details>
