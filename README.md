@@ -3,17 +3,22 @@
 
 <!-- Contact and keys -->
 <p align="center">
-<a href="mailto:sikatikenmogne@gmail.com" title="Email Address"><code>sikatikenmogne at gmail</code></a> │ <a href="https://linktr.ee/samuelsikati" title="LinkTree Profile"><code>samuelsikati at linktree</code></a> │ <a href="https://wakatime.com/@sikatikenmogne" title="WakaTime Profile"><code>@sikatikenmogne at wakatime</code></a>
+<a href="mailto:sikatikenmogne@gmail.com" title="Email Address"><code>sikatikenmogne at gmail</code></a> │ <a href="https://wakatime.com/@sikatikenmogne" title="WakaTime Profile"><code>@sikatikenmogne at wakatime</code></a>
+
+<p align="center">
+  <strong>Follow me on</strong>
+</p>
+
 </p>
 
 <!-- Socials -->
-<p align="center">
+<p align="center">  
    <kbd>
-  <a href="https://www.linkedin.com/in/samuel-sikati-kenmogne-57953a1b7/" title="LinkedIn - Samuel Sikati"><img src="https://img.shields.io/badge/-Samuel_Sikati-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@sikatikenmogne" title="Medium - @sikatikenmogne"><img src="https://img.shields.io/badge/-@sikatikenmogne-12100E?style=for-the-badge&logo=Medium&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/24794943/samuel-sikati" title="StackOverflow - Samuel Sikati"><img src="https://img.shields.io/badge/-Samuel_Sikati-f48225?style=for-the-badge&logo=Stackoverflow&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/sikatikenmogne" title="LeetCode - @sikatikenmogne"><img src="https://img.shields.io/badge/-sikatikenmogne-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://roadmap.sh/u/samuelsikati" title="Roadmap.sh - Samuel Sikati"><img src="https://img.shields.io/badge/-samuelsikati-000000?style=for-the-badge&logo=roadmap.sh&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/samuel-sikati-kenmogne-57953a1b7/" title="LinkedIn - Samuel Sikati"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@sikatikenmogne" title="Medium - @sikatikenmogne"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/24794943/samuel-sikati" title="StackOverflow - Samuel Sikati"><img src="https://img.shields.io/badge/-stackoverflow-f48225?style=for-the-badge&logo=Stackoverflow&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/sikatikenmogne" title="LeetCode - @sikatikenmogne"><img src="https://img.shields.io/badge/-leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://roadmap.sh/u/samuelsikati" title="Roadmap.sh - Samuel Sikati"><img src="https://img.shields.io/badge/-roadmap.sh-000000?style=for-the-badge&logo=roadmap.sh&logoColor=white" /></a>
   </kbd>
 </p>
 
